@@ -1,0 +1,20 @@
+\\SERVER-12\User\ShaneS\Report DLL\Report DLL\bin\Debug\Report DLL.exe.config
+\\SERVER-12\User\ShaneS\Report DLL\Report DLL\bin\Debug\Report DLL.exe
+\\SERVER-12\User\ShaneS\Report DLL\Report DLL\bin\Debug\Report DLL.pdb
+\\SERVER-12\User\ShaneS\Report DLL\Report DLL\obj\Debug\Report DLL.csprojAssemblyReference.cache
+\\SERVER-12\User\ShaneS\Report DLL\Report DLL\obj\Debug\Report_DLL.test.resources
+\\SERVER-12\User\ShaneS\Report DLL\Report DLL\obj\Debug\Report_DLL.Properties.Resources.resources
+\\SERVER-12\User\ShaneS\Report DLL\Report DLL\obj\Debug\Report DLL.csproj.GenerateResource.cache
+\\SERVER-12\User\ShaneS\Report DLL\Report DLL\obj\Debug\Report DLL.csproj.CoreCompileInputs.cache
+\\SERVER-12\User\ShaneS\Report DLL\Report DLL\obj\Debug\Report DLL.exe
+\\SERVER-12\User\ShaneS\Report DLL\Report DLL\obj\Debug\Report DLL.pdb
+C:\Users\ShaneS\Desktop\Report DLL\Report DLL\bin\Debug\Report DLL.exe.config
+C:\Users\ShaneS\Desktop\Report DLL\Report DLL\bin\Debug\Report DLL.exe
+C:\Users\ShaneS\Desktop\Report DLL\Report DLL\bin\Debug\Report DLL.pdb
+C:\Users\ShaneS\Desktop\Report DLL\Report DLL\obj\Debug\Report DLL.csprojAssemblyReference.cache
+C:\Users\ShaneS\Desktop\Report DLL\Report DLL\obj\Debug\Report_DLL.test.resources
+C:\Users\ShaneS\Desktop\Report DLL\Report DLL\obj\Debug\Report_DLL.Properties.Resources.resources
+C:\Users\ShaneS\Desktop\Report DLL\Report DLL\obj\Debug\Report DLL.csproj.GenerateResource.cache
+C:\Users\ShaneS\Desktop\Report DLL\Report DLL\obj\Debug\Report DLL.csproj.CoreCompileInputs.cache
+C:\Users\ShaneS\Desktop\Report DLL\Report DLL\obj\Debug\Report DLL.exe
+C:\Users\ShaneS\Desktop\Report DLL\Report DLL\obj\Debug\Report DLL.pdb
